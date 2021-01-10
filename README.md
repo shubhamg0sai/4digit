@@ -1,2 +1,2 @@
-# 4digit-phone-pin
+# 4digit
 4digit Passlist for phone 
