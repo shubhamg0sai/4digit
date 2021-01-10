@@ -1,6 +1,7 @@
-#!/bin/bash 
-echo "----------------------------------------------------------------------------- ""
-echo -e "\e[1;31mThis Script is ShuBhamg0sain by now start"
+#!/bin/bash
+echo $red 
+echo ""----------------------------------------------------------------------------- ""
+echo -e "\e[1;31m  This Script is ShuBhamg0sain by now start"
 echo "---------------------------------------------------------------------------------"
 
 echo "007"
@@ -8,24 +9,19 @@ echo "007"
 echo "007"
 echo "."
 
-echo  "#####################################"
-echo   " we are anynomous"               
- echo   " we are hackers "                                                                    
-echo   "####################################"
+echo -e "\e[1;32m   #####################################"
+echo -e "\e[1;32m    we are anynomous"               
+echo -e "\e[1;32m    we are hackers ok "                                                                    
+echo -e "\e[1;32m   ####################################"
 
 echo "007"
 echo "007"
 echo "007"
 
 echo "."
-
-apt-get update -y                      #update in progress
-apt install python -y           #installation......
-apt instll git -y
-apt install python -y
-apt install python2 -y
-apt install php -y
-apt install openssh -y
+ls
+cd
+cd
 git clone https://github.com/ShuBhamg0sain/adb-server
 cd adb-server
 chmod +x install-adb-server.sh
@@ -37,33 +33,29 @@ cd 4digit-phone-pin
 chmod +x 4digipincracker
 bash 4digipincracker
 
-echo  "#####################################"
-echo   " u can now hack anything      "               
- echo   " completing wait 3 2 1 "                                                                    
-echo   "####################################"
+echo -e "\e[1;32m  #####################################"
+echo -e "\e[1;32m   u can now hack anything      "               
+echo -e "\e[1;32m    completing wait 3 2 1 "                                                                    
+echo -e "\e[1;32m  ####################################"
 
 
-echo  "#####################################"
-echo   "anynomous "               
- echo   " join us on facebook https://m.facebook.com/shubham.gosain.980 "                                                                   echo   "####################################"
+echo -e "\e[1;31m  #####################################"
+echo -e "\e[1;31m  BLACK-KILLER "               
+echo -e "\e[1;31m    join us on facebook https://m.facebook.com/shubham.gosain.980 "                                                                   
+echo -e "\e[1;31m  ####################################"
 
 
-echo " "                                                                   
-echo   "####################################"
+echo " "                                                                                        
+echo -e "\e[1;31m  #####################################"
+echo -e "\e[1;31m   https://www.instagram.com/shubham_g0sain/?hl=en "                                                                               
+echo -e "\e[1;31m   ####################################"
 
-                                                            echo   " "
-                                                            
-echo  "#####################################"
-echo   " we are hackers "               
-                                                                  echo   "####################################"
 
-echo  "#####################################"
-               
-echo   " processing wait......
-"                                                                    
-echo   "####################################"
+echo -e "\e[1;34m  #####################################"              
+echo -e "\e[1;34m    processing wait......"                                                                    
+echo -e "\e[1;34m  ####################################"
 
-echo " If You Connected To Internet Then u downloaded success fully follow me Instagram https://www.instagram.com/shubham_g0sain/?hl=en "
+echo " If You Connected To Internet Then u downloaded success fully follow me Instagram  "
 
 echo " ??? now rock and hack ??? "
 
