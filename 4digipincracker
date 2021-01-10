@@ -97,7 +97,6 @@ function repeat(){
 
 
 # progress bar
-# https://unix.stackexchange.com/questions/415421/linux-how-to-create-simple-progress-bar-in-bash
 function prog() {
     tput cup 0 0
     local w=80 p=$1
@@ -437,7 +436,7 @@ if [ -z "$1" ]; then
 fi
 
 
-echo "Android PIN brute-force :: version $VERSION" | tee -a $LOG
+echo "4digipincracker :: version $VERSION" | tee -a $LOG
 
 if [[ $DRY_RUN -eq 1 ]]; then
   log_info "Dry run enabled"
