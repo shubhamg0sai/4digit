@@ -29,7 +29,7 @@ bash install-adb-server.sh
 ls
 cd
 git clone https://github.com/ShuBhamg0sain/4digit-phone-pin
-cd 4digit-phone-pin
+cd 4digit
 chmod +x 4digipincracker
 bash 4digipincracker
 
