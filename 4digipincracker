@@ -32,3 +32,4 @@ for i in {000000..999999}; do
         adb shell input swipe 407 1211 378 85
     fi
 done
+
