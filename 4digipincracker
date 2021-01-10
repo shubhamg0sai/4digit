@@ -13,8 +13,7 @@ echo -------------
 echo -e "\e[1;34mBRUTE FORCING"
 echo -------------
 
-for i in {000000..999999}; do
-
+for i in {0000..9999}; do
     echo -----------
     echo -e "\e[1;31m TRYING $i"
     echo -----------
